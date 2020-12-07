@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 5393bc8b17d70e44995f9681403e36a4
+timeCreated: 1526370793
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Button
+    100004: Button.001
+    100006: Button.002
+    100008: Hand
+    100010: Hand.001
+    100012: Hat
+    100014: Head
+    100016: Nose
+    100018: //RootNode
+    100020: WoolScarf
+    100022: WoolScarf.001
+    100024: snowman
+    400000: Body
+    400002: Button
+    400004: Button.001
+    400006: Button.002
+    400008: Hand
+    400010: Hand.001
+    400012: Hat
+    400014: Head
+    400016: Nose
+    400018: //RootNode
+    400020: WoolScarf
+    400022: WoolScarf.001
+    400024: snowman
+    2300000: Body
+    2300002: Button
+    2300004: Button.001
+    2300006: Button.002
+    2300008: Hand
+    2300010: Hand.001
+    2300012: Hat
+    2300014: Head
+    2300016: Nose
+    2300018: WoolScarf
+    2300020: WoolScarf.001
+    2300022: snowman
+    3300000: Body
+    3300002: Button
+    3300004: Button.001
+    3300006: Button.002
+    3300008: Hand
+    3300010: Hand.001
+    3300012: Hat
+    3300014: Head
+    3300016: Nose
+    3300018: WoolScarf
+    3300020: WoolScarf.001
+    3300022: snowman
+    4300000: WoolScarf.001
+    4300002: WoolScarf
+    4300004: Nose
+    4300006: Button
+    4300008: Button.002
+    4300010: Button.001
+    4300012: Hat
+    4300014: Hand.001
+    4300016: Hand
+    4300018: Head
+    4300020: Body
+    4300022: snowman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
